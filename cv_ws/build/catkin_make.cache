@@ -1,0 +1,2 @@
+detect
+-DCATKIN_DEVEL_PREFIX=/home/bessa/cv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bessa/cv_ws/install -G Unix Makefiles
